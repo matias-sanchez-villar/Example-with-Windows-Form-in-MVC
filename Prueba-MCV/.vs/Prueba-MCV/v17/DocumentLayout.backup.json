@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matias\\Documents\\prueba\\Prueba-MCV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66B636C1-7FB9-499E-B0A7-3E39EFA6F0A3}|Prueba-MCV.csproj|c:\\users\\matias\\documents\\prueba\\prueba-mcv\\listarpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66B636C1-7FB9-499E-B0A7-3E39EFA6F0A3}|Prueba-MCV.csproj|solutionrelative:listarpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B636C1-7FB9-499E-B0A7-3E39EFA6F0A3}|Prueba-MCV.csproj|c:\\users\\matias\\documents\\prueba\\prueba-mcv\\listarpersona.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B636C1-7FB9-499E-B0A7-3E39EFA6F0A3}|Prueba-MCV.csproj|solutionrelative:listarpersona.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListarPersona.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Matias\\Documents\\prueba\\Prueba-MCV\\ListarPersona.Designer.cs",
+              "RelativeDocumentMoniker": "ListarPersona.Designer.cs",
+              "ToolTip": "C:\\Users\\Matias\\Documents\\prueba\\Prueba-MCV\\ListarPersona.Designer.cs*",
+              "RelativeToolTip": "ListarPersona.Designer.cs*",
+              "ViewState": "AgIAAFIAAAAAAAAAAAA3wGAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T22:19:25.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarPersona.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Matias\\Documents\\prueba\\Prueba-MCV\\ListarPersona.cs",
+              "RelativeDocumentMoniker": "ListarPersona.cs",
+              "ToolTip": "C:\\Users\\Matias\\Documents\\prueba\\Prueba-MCV\\ListarPersona.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "ListarPersona.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T22:16:33.61Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
