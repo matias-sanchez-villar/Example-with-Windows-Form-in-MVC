@@ -20,6 +20,8 @@ Before you begin, make sure you have the following:
    git clone https://github.com/your_username/your_repository.git
 
 
+## Create the database
+
 -- Create the database
 CREATE DATABASE EjemploBD;
 
