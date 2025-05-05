@@ -35,4 +35,4 @@ CREATE TABLE dbo.Personas (
     Apellido NVARCHAR(50)
 );
 
---inser into
+--inser into () values
