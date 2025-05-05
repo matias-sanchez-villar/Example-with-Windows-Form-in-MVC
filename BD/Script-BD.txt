@@ -1,0 +1,5 @@
+-- Create the database CREATE DATABASE EjemploBD;
+
+-- Use the database USE EjemploBD;
+
+-- Create the Personas table CREATE TABLE dbo.Personas ( Id INT PRIMARY KEY IDENTITY(1,1), Nombre NVARCHAR(50), Apellido NVARCHAR(50) );
